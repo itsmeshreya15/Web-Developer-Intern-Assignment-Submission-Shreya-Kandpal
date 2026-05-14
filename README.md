@@ -94,6 +94,8 @@ This project is deployed on **Vercel** with:
 - If the exchange API is unavailable, the **converter** shows a warning; **totals and the list** in the ledger currency are unaffected.
 
 ---
+## Output 
+<img width="1599" height="734" alt="image" src="https://github.com/user-attachments/assets/6c5ea758-c6ae-42ec-8cd4-f9dc75f32999" />
 
 
 ## Responsive design
